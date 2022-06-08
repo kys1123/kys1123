@@ -8,4 +8,4 @@
 
 # 활동 내역 정리
 -----
-[![Readme Card](http://github-readme-stats.vercel.app/api/pin/?username=Lifecream&repo=2022-Ctrl-C-Activities)].(https://github.com/Lifecream/2022-Ctrl-C-Activities)
+[![Readme Card](http://github-readme-stats.vercel.app/api/pin/?username=Lifecream&repo=2022-Ctrl-C-Activities)](https://github.com/Lifecream/2022-Ctrl-C-Activities)
