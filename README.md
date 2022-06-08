@@ -1,2 +1,2 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=99CCFF&text=안녕하세요&desc=hi&frontColor=000000&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=waving&color=99CCFF&text=안녕하세요&desc=hi&frontColor=000000&hiegh=250&fontSize=100&fontAlingnY=40&descAL)
 
